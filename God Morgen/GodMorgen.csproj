@@ -9,6 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+  <Content Include="Favicon.ico">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </Content>
     <PackageReference Include="xunit" Version="2.9.3" />
   </ItemGroup>
 </Project>

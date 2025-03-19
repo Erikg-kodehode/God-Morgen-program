@@ -282,3 +282,4 @@ C:\Users\erikg\Documents\Dev\Backend\God Morgen program\God Morgen\obj\Release\n
 C:\Users\erikg\Documents\Dev\Backend\God Morgen program\God Morgen\obj\Release\net9.0-windows\win-x64\GodMorgen.pdb
 C:\Users\erikg\Documents\Dev\Backend\God Morgen program\God Morgen\obj\Release\net9.0-windows\win-x64\GodMorgen.genruntimeconfig.cache
 C:\Users\erikg\Documents\Dev\Backend\God Morgen program\God Morgen\obj\Release\net9.0-windows\win-x64\ref\GodMorgen.dll
+C:\Users\erikg\Documents\Dev\Backend\God Morgen program\God Morgen\bin\Release\net9.0-windows\win-x64\Favicon.ico

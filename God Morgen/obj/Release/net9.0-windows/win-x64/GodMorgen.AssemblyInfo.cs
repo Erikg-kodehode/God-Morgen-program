@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GodMorgen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e540bfdd7cbee1de7e2e8ceb2c54504df7f3e761")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a555ab6b336670fd301a840c0ae32d4c4f1660d")]
 [assembly: System.Reflection.AssemblyProductAttribute("GodMorgen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GodMorgen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
