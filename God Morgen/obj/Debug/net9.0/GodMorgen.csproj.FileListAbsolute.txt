@@ -18,3 +18,4 @@ C:\Users\erikg\Documents\Dev\Backend\God Morgen program\God Morgen\obj\Debug\net
 C:\Users\erikg\Documents\Dev\Backend\God Morgen program\God Morgen\obj\Debug\net9.0\GodMorgen.pdb
 C:\Users\erikg\Documents\Dev\Backend\God Morgen program\God Morgen\obj\Debug\net9.0\GodMorgen.genruntimeconfig.cache
 C:\Users\erikg\Documents\Dev\Backend\God Morgen program\God Morgen\obj\Debug\net9.0\ref\GodMorgen.dll
+C:\Users\erikg\Documents\Dev\Backend\God Morgen program\God Morgen\obj\Debug\net9.0\GodMorgen.sourcelink.json
