@@ -1,0 +1,21 @@
+# Ignore build and binary directories
+bin/
+obj/
+out/
+publish/
+Debug/
+Release/
+
+# Ignore system-generated files
+*.suo
+*.user
+*.exe
+*.pdb
+*.cache
+*.log
+*.vs/
+
+# Ignore temporary files
+*.tmp
+*.DS_Store
+Thumbs.db
